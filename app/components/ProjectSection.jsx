@@ -28,21 +28,12 @@ const projectData = [
   },
   {
     id: 3,
-    title: "Video 3",
-    description: "Lorem ipsum dolor sit amet consectetur",
-    imageUrl: "/images/projects/3.png",
-    tag: ["All", "Mobile"],
-    gitUrl: "https://github.com/vichesa/my-blog",
-    previewUrl: "https://www.youtube.com/watch?v=8RMGulQ8S_Y",
-  },
-  {
-    id: 4,
-    title: "Video 4",
-    description: "Lorem ipsum dolor sit amet consectetur",
-    imageUrl: "/images/projects/4.png",
-    tag: ["All", "Mobile"],
-    gitUrl: "https://github.com/vichesa/my-blog",
-    previewUrl: "https://www.youtube.com/watch?v=8RMGulQ8S_Y",
+    title: "Next Js Authentication",
+    description: "Build Register dan Login Form with NextAuth Js and Mongo DB",
+    imageUrl: "/images/projects/nextAunth.PNG",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/vichesa/next-auth-app",
+    previewUrl: "https://next-auth-app-chi.vercel.app/",
   },
 ];
 
